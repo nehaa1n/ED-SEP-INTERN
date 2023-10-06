@@ -1,0 +1,20 @@
+frontend 
+
+Backend
+
+
+Inline element
+start with the same line
+only take space which is required
+eg=span,formatting tags
+
+CSS Cascading style sheet 
+
+3 ways to define CSS
+
+1-inline = style="background color";
+..style attribute inside the html tags
+
+2-Internal CSS = <style></style> => tag is used under the  <head> tag
+
+3-External CSS = <link> tag calling the css file
